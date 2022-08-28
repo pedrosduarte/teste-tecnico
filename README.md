@@ -15,6 +15,8 @@ de todo modo foi incrivel a expêriencia e o aprendisado que eu tive enquanto tr
 - [x] https://stackoverflow.com/
 ### Youtube
 - [x] https://www.youtube.com/
+### Telegram
+- [x] https://web.telegram.org/
 
 
 
